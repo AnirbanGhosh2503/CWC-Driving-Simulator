@@ -3,7 +3,7 @@
 
 ---
 
-![Header Image]([https://drive.google.com/file/d/105SrqKa51gYbBgQcBne4SidGFE92FgUh/view?usp=sharing](https://drive.google.com/file/d/105SrqKa51gYbBgQcBne4SidGFE92FgUh/view))  
+![Header Image](Screenshot 2025-06-20 223234.png)  
 <!-- Optional: Replace with an actual screenshot or banner later -->
 
 ## 🧠 About This Project
