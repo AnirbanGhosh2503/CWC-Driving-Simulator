@@ -3,7 +3,7 @@
 
 ---
 
-![Header Image]([Screenshot 2025-06-20 223234.png](https://github.com/AnirbanGhosh2503/CWC-Driving-Simulator/blob/main/Screenshot%202025-06-20%20223234.png?raw=true))  
+![Header Image](https://github.com/AnirbanGhosh2503/CWC-Driving-Simulator/blob/f8ed630f26518bb881b227cf225281465e8076e0/Screenshot%202025-06-20%20223234.png)  
 <!-- Optional: Replace with an actual screenshot or banner later -->
 
 ## 🧠 About This Project
